@@ -39,3 +39,7 @@ The Following Graphs/Plots are Created and Exported:
 Link To Presentation Slides:
 
 https://docs.google.com/presentation/d/1SV1RPHfspDE0TLBuD3jLpVEQ6RW1D5F1/edit?usp=sharing&ouid=104775578395208017247&rtpof=true&sd=true
+
+Link To Scikit-Posthocs Information and Install:
+
+https://scikit-posthocs.readthedocs.io/en/latest/
