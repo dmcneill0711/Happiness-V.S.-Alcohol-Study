@@ -1,4 +1,4 @@
-# Project-1
+# Happiness-V.S.-Alcohol-Study
 
 Overview: 
 
