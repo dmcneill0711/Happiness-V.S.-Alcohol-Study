@@ -1,4 +1,4 @@
-# Project-1
+# Happiness-V.S.-Alcohol-Study
 
 Overview: 
 
@@ -35,3 +35,11 @@ The Following Graphs/Plots are Created and Exported:
 -Bar chart that shows the ranking of each country and the amount of alcohol consumed.
 
 -Bar chart that is organized by the average ranking of each region, with the average amount of alcohol consumed by each region.
+
+Link To Presentation Slides:
+
+https://docs.google.com/presentation/d/1SV1RPHfspDE0TLBuD3jLpVEQ6RW1D5F1/edit?usp=sharing&ouid=104775578395208017247&rtpof=true&sd=true
+
+Link To Scikit-Posthocs Information and Install:
+
+https://scikit-posthocs.readthedocs.io/en/latest/
