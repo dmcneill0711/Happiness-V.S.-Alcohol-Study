@@ -42,6 +42,8 @@ The data is then used in various graphs for visual inspection.
 
 -Bar chart that is organized by the average ranking of each region, with the average amount of alcohol consumed by each region.
 
+![chart](https://user-images.githubusercontent.com/100710958/190199278-22d48091-54f9-4575-a9a4-d625af566bd8.png)
+
 <hr>
 
 <b>Link To Presentation Slides:</b>
